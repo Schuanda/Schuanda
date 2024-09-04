@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Carlindo Schuanda Aguiar Neto, i am 20 years old, i live at Brasil, São Luís... I study Computer Science at Estacio, and a speak portuguese and english... My main programming language is Java.
+My name is Carlindo Schuanda Aguiar Neto, i am 20 years old, i live at Brasil, São Luís... I study Computer Science at Estacio, and i speak portuguese and english... My main programming language is Java.
 
 <!--
 **Schuanda/Schuanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
